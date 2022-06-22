@@ -1,0 +1,8 @@
+! name: Vimeo Search
+! description: Prioritize searching through Reddit's user generated content.
+! public: false
+! author: us3r-generated content
+
+$discard
+$boost=1,site=vimeo.com
+$boost=1,site=www.vimeo.com
