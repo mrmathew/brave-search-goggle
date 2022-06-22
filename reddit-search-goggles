@@ -1,7 +1,7 @@
 ! name: Reddit Search
 ! description: Prioritize searching through Reddit's user generated content.
 ! public: true
-! author: brave us3r
+! author: brave-us3r
 
 $discard
 $boost=1,site=reddit.com
