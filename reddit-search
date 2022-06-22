@@ -1,0 +1,9 @@
+! name: Reddit Search
+! description: Prioritize searching through Reddit's user generated content.
+! public: true
+! author: us3r-generated content
+
+$discard
+$boost=1,site=reddit.com
+$boost=1,site=www.reddit.com
+$boost=1,site=old.reddit.com
