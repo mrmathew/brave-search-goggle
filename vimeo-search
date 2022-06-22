@@ -1,0 +1,8 @@
+! name: Vimeo Video Search
+! description: Search Vimeo.com for Videos.
+! public: true
+! author: us3r-generated content
+
+$discard
+$boost=1,site=vimeo.com
+$boost=1,site=www.vimeo.com
